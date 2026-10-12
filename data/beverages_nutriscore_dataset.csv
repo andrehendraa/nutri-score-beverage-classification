@@ -1,0 +1,450 @@
+Nama_minuman,Nutri_Score,Energy (Per 100 ml),Fat (Per 100 ml),Saturated fat (Per 100 ml),Carbohydrates (Per 100 ml),Sugars (Per 100 ml),Fiber (Per 100 ml),Proteins (Per 100 ml),Salt (Per 100 ml),"Fruits, vegetables and legumes (Per 100 ml in %)"
+Ice tea - Lipton - 1750 ml,Nutri-Score D,56 kj (13 kcal),0 g,0 g,3.1 g,3 g,?,0 g,0.03 g,0%
+FuzeTea Thé noir évasion pêche & saveur hibiscus - FUZE TEA - 1.25 l,Nutri-Score D,79 kj (19 kcal),0 g,0 g,4.3 g,4.3 g,0 g,0 g,0.03 g,5%
+Cola Cao El Original - 383 g,Nutri-Score D,288 kj (68 kcal),1.7 g,1.1 g,9.6 g,9.1 g,0.5 g,3.4 g,0.12 g,?
+Banania Original - Cocoa Cereals With Hint Of Banana & Honey - 400 g,Nutri-Score D,"1,577 kj (373 kcal)",2.2 g,1.4 g,79 g,69 g,6.7 g,5.6 g,0.06 g,0%
+Oatly drink whole fridge version - 1ltr,Nutri-Score D,239 kj (57 kcal),2.8 g,0.3 g,6.6 g,4.1 g,0.8 g,1 g,0.1 g,25%
+Boisson Noisette Calcium - Bjorg - 1 l,Nutri-Score D,286 kj (69 kcal),4.5 g,0.4 g,5.5 g,4 g,1.1 g,1 g,0.06 g,7%
+"Thé vert saveur menthe - May Tea - 1,2L",Nutri-Score C,59 kj (14 kcal),0 g,0 g,3.3 g,3.3 g,0 g,0 g,0.03 g,0%
+"Tropicana 100% oranges pressées sans pulpe format familial 1,5 L - 1500 ml",Nutri-Score C,182 kj (43 kcal),0 g,0 g,8.9 g,8.9 g,0.6 g,0.8 g,0 g,100%
+LE PUR JUS Orange sans pulpe - Joker - 1 L,Nutri-Score C,177 kj (42 kcal),0 g,0 g,8.6 g,8.6 g,?,0.6 g,0.012 g,100%
+Le Bio Orange - Pressade - 1.5 L,Nutri-Score C,144 kj (34 kcal),0 g,0 g,8.2 g,8.2 g,0.5 g,0.5 g,0 g,70%
+Le fruit Orange sans pulpe - Joker - 1L,Nutri-Score C,178 kj (42 kcal),0 g,0 g,8.7 g,8.7 g,?,0.6 g, 0.01 g,75%
+Pulco à diluer - Agrumes - 70 cl,Nutri-Score C,691 kj (162 kcal),0.1 g,0 g,35.6 g,34.4 g,?,0.6 g,0.01 g,91%
+Bio Organic - Oat (No Added Sugar) - Vemondo - 1l,Nutri-Score C,154 kj (37 kcal),1.1 g,0.1 g,1.2 g,4.4 g,?,0.4 g,0.1 g,0%
+Oat No Sugars - Alpro - 1 l,Nutri-Score C,167 kj (40 kcal),1.5 g,0.2 g,5.6 g,0 g,1.2 g,0.2 g,0.09 g,0%
+The Original Oat Drink Semi - Oatly! - 1L,Nutri-Score C,191 kj (46 kcal),1.5 g,0.2 g,6.6 g,4.1 g,0.8 g,1 g,0.1 g,0%
+Alpro Not Milk - 1pcs,Nutri-Score C,248 kj (59 kcal),3.5 g,0.4 g,5.7 g,0 g,1 g,0.7 g,0.12 g,13%
+Sojadrink ohne Zucker - Alpro - 1 l,Nutri-Score B,138 kj (33 kcal),1.8 g,0.3 g,0 g,0 g,0.6 g,3.3 g,0.09 g,9%
+Cranberry - Ocean Spray - 1 L,Nutri-Score E,167 kj (39 kcal),0 g,0 g,9.3 g,9.3 g,0 g,0 g,0 g,35%
+Coca cola - 1L,Nutri-Score E,165 kj (39 kcal),0 g,0 g,9.3 g,9.3 g,5 g,0 g,0.08 g,11%
+Pepsi - 2 l,Nutri-Score E,188 kj (45 kcal),0 g,0 g,11 g,11 g,0 g,0 g,0.01 g,0%
+Coke Can 150ml - coca cola,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Coca Cola Regular 2L - 2 l,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Pepsi-Cola,Nutri-Score E,188 kj (45 kcal),0 g,0 g,11.09 g,11.05 g,?,0 g,0.01 g,0%
+Fanta orange - 330ml,Nutri-Score E,109 kj (27 kcal),0 g,0 g,6.5 g,6.5 g,-,0 g,0 g,12%
+"Pepsi Cola - 2,5 L",Nutri-Score E,182 kj (43 kcal),0 g,0 g,11 g,11 g,0 g,0 g,0.01 g,0%
+Coca-Cola Cherry - 330 ml,Nutri-Score E,182 kj (43 kcal),0 g,0 g,10.7 g,10.7 g,0 g,0 g,0 g,0%
+Coca-Cola - 500 ml,Nutri-Score E,180 kj (43 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Coca-Cola Classic - 1.25l,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,?,0 g,0 g,0%
+Red Bull Energy Drink - 24pcs,Nutri-Score E,195 kj (46 kcal),0 g,0 g,11 g,11 g,?,0 g,0.1 g,0%
+"Coca Cola - 1,5 l",Nutri-Score E,185 kj (44 kcal),0 g,0 g,10.9 g,10.9 g,-,0 g,0 g,0%
+Redbull - Red Bull - 1,Nutri-Score E,192 kj (46 kcal),0 g,?,11 g,11 g,?,0 g,0.198 g,0%
+"Fanta orange reduit en sucre - 1,25L",Nutri-Score E,113 kj (27 kcal),0 g,0 g,6.5 g,6.5 g,?,0 g,0 g,12%
+Coca cola - 500ml,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+"Original Taste - Coca-Cola - 1,75 l",Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,-,0 g,0 g,0%
+Aranciata Rossa (orange sanguine) - San Pellegrino - 33 cl,Nutri-Score E,161 kj (38 kcal),0 g,0 g,8.9 g,8.8 g,0 g,0.1 g,0 g,15%
+Coca-Cola Cherry - The Coca-Cola Company - 1.25 L,Nutri-Score E,182 kj (43 kcal),0 g,0 g,10.7 g,10.7 g,?,0 g,0 g,0%
+Coca-Cola original taste - 2 L,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,?,0 g,0 g,0%
+Schweppes bitter lemon - 1pcs,Nutri-Score E,230 kj (55 kcal),0 g,0 g,13.3 g,13.3 g,0 g,0 g,0 g,2%
+Cola - Coca-Cola - 1l,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+"Schweppes agrumes aux saveurs d'orange,🍊de pamplemousse, de citron vert & de mandarine - SchweppesOrangina Schweppes - 33 cl",Nutri-Score E,100 kj (24 kcal),0 g,0 g,5.8 g,5.7 g,0 g,0 g,0.01 g,0%
+CU GUST DE LAM - PepsiCola - 3,Nutri-Score E,188 kj (44 kcal),0 g,0 g,11 g,11 g,?,0 g,0 g,0%
+Pepsi - 330 ml,Nutri-Score E,179 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g, 0.003 g,
+Hawai Tropical - 1 L,Nutri-Score E,172 kj (41 kcal),0 g,0 g,10 g,9.5 g,4 g,0 g,0.026 g,
+Monster Energy - 500 ml,Nutri-Score E,156 kj (37 kcal),0 g,0 g,9.4 g,8.4 g,0 g,0 g,0.21 g,0%
+original taste - Coca-Cola - 250mL,Nutri-Score E,176 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Coca-Cola - 250 ml,Nutri-Score E,176 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Red Bull 250ml - 250 ml,Nutri-Score E,194 kj (46 kcal),0 g,?,11 g,11 g,?,0 g,0.098 g,0%
+Schweppes Agrum' - 50 cl E,Nutri-Score E,101 kj (24 kcal),0 g,0 g,5.7 g,5.7 g,0 g,0 g,0 g,0%
+Hawai Tropical - 1 L,Nutri-Score E,172 kj (41 kcal),0 g,0 g,10 g,9.5 g,4 g,0 g,0.026 g,
+Monster Energy - 500 ml,Nutri-Score E,156 kj (37 kcal),0 g,0 g,9.4 g,8.4 g,0 g,0 g,0.21 g,0%
+original taste - Coca-Cola - 250mL,Nutri-Score E,176 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Coca-Cola - 250 ml,Nutri-Score E,176 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Red Bull 250ml - 250 ml,Nutri-Score E,194 kj (46 kcal),0 g,?,11 g,11 g,?,0 g,0.098 g,0%
+Schweppes Agrum' - 50 cl E,Nutri-Score E,101 kj (24 kcal),0 g,0 g,5.7 g,5.7 g,0 g,0 g,0 g,0%
+Coca Cola Glass - coke - 330 ml,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+"Citronnade - Don Simón - 1,5 litres",Nutri-Score E,96 kj (23 kcal),0 g,0 g,5.6 g,5.6 g,0 g,0.1 g,0.01 g,15%
+Fanta orange 1.5l - 1.5 L,Nutri-Score E,203 kj (48 kcal),0 g,0 g,11.7 g,11.7 g,0 g,0 g,0 g,4%
+Schwepes - Schweppes - 6 x 250 ml,Nutri-Score E,158 kj (37 kcal),0 g,0 g,8.9 g,8.9 g,0 g,0 g,0 g,0%
+Schweppes Mandarin - 500 ml,Nutri-Score E,187 kj (44 kcal),0 g,0 g,10.7 g,10.7 g,?,0 g,0 g,2%
+Coca-Cola - 33 cl,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Coca-Cola - Coca-Cola company - 330 ml,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Coca Cola - 33 cl,Nutri-Score E,176 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Limone & Menta - San Pellegrino - 33cl,Nutri-Score E,159 kj (37 kcal),0 g,0 g,8.3 g,8.3 g,0 g,0 g,0 g,16%
+"Schweppes Agrumes - 1,5 l",Nutri-Score E,100 kj (24 kcal),0 g,0 g,6.6 g,6.6 g,?,0 g,0.01 g,0%
+Limonada natural light - Don Simón - 2 l,Nutri-Score E,97 kj (23 kcal),0 g,0 g,5.6 g,5.6 g,0 g,0.1 g,0.01 g,15%
+Schweppes Indian Tonic - 50 cl,Nutri-Score E,105 kj (25 kcal),0 g,0 g,5.8 g,5.7 g,?,0 g,0 g,0%
+Fanta citron 33cl - 330 ml,Nutri-Score E,111 kj (26 kcal),0 g,0 g,6.3 g,6.3 g,?,0 g,0.02 g,5%
+Orangina - 33 cl,Nutri-Score E,173 kj (41 kcal),0.1 g,0 g,9.7 g,9.6 g,0 g,0.1 g,0.01 g,15%
+Actimel 100 g x 12 original - Danone - 1.2 kg,Nutri-Score E,299 kj (71 kcal),1.6 g,1.1 g,10.5 g,10.5 g,?,2.8 g,0.1 g,0%
+Kéfir coco - hacendado - 250 ml,Nutri-Score E,259 kj (62 kcal),2.3 g,1.6 g,8.9 g,8.8 g,?,1.3 g,0.1 g,8%
+Kéfir coco - hacendado - 250 ml,Nutri-Score E,259 kj (62 kcal),2.3 g,1.6 g,8.9 g,8.8 g,?,1.3 g,0.1 g,8%
+Dolce Gusto Café au Lait - Nescafé - 160 g,Nutri-Score E,"1,670 kj (400 kcal)",20 g,12.5 g,29.4 g,29.1 g,8.2 g,21.2 g,1.03 g,0%
+Épeautre noisette bjorg - 1 L,Nutri-Score E,318 kj (76 kcal),3 g,0.3 g,11 g,5.4 g,0.5 g,1 g,0.09 g,3%
+Latte Macchiato - Milbona - 330ml,Nutri-Score E,331 kj (79 kcal),4.1 g,2.6 g,7.7 g,7.7 g,?,2.8 g,0.15 g,0%
+Hot Chocolate Powder - Cadbury - 500 g,Nutri-Score E,"1,703 kj (404 kcal)",5.8 g,3.4 g,76 g,73 g,9.3 g,6.4 g,0.02 g,0%
+Multi vitamin - Capri-Sun - 200ml,Nutri-Score D,130 kj (31 kcal), 0.5 g, 0.1 g,7.3 g,7.3 g,?, 0.5 g, 0.01 g,22%
+Lipton Ice Tea Saveur Pêche - 330 ml,Nutri-Score D,56 kj (13 kcal),0 g,0 g,3.1 g,3 g,?,0 g,0.03 g,0%
+Oasis tropical - 33 cl,Nutri-Score D,141 kj (33 kcal),0 g,0 g,7.9 g,7.8 g,-,0.1 g,0 g,9%
+Indian tonic - Schweppes - 33 cl,Nutri-Score D,82 kj (19 kcal),0 g,0 g,5.8 g,5.8 g,?,0 g,0 g,0%
+Powerade Ice Storm - Coca-Cola - 500ml,Nutri-Score D,93 kj (18 kcal),0 g,0 g,4.1 g,4.1 g,0 g,0 g,0.13 g,0%
+Fanta,Nutri-Score D,126 kj (30 kcal),0 g,0 g,7.3 g,7.3 g,?,0 g,0.02 g,0%
+"Nectar de pommes - Doux - Bio - Pressade - 1,5 l",Nutri-Score D,146 kj (35 kcal),0 g,0 g,8.8 g,8.8 g, 0.5 g, 0.5 g,0 g,55%
+Pineapple juice - Solevita - 1 l,Nutri-Score D,210 kj (50 kcal),0 g,0 g,11.5 g,11.5 g,0.2 g,0.4 g,0.01 g,100%
+Limonata - San Pellegrino - 33 cl,Nutri-Score D,147 kj (35 kcal),0 g,0 g,8 g,8 g,0.1 g,0.1 g,0 g,16%
+Indian Tonic - SCHWEPPES,Nutri-Score D,79 kj (19 kcal),0 g,0 g,4.4 g,4.4 g,?,0 g,0.01 g,0%
+Schweppes Tangerine - 1500 ml,Nutri-Score D,126 kj (30 kcal),0 g,0 g,7.1 g,7.1 g,-,0 g,0.01 g,0%
+Bebida refrescante funcional con sales minerales - Aquarius - 330 ml,Nutri-Score D,77 kj (18 kcal),0 g,0 g,4.4 g,4.4 g,-,0 g,0.05 g,0%
+Vitamin aquaB12 - merlin's - 600 ml,Nutri-Score D,247 kj (59 kcal),0 g,0 g,3.3 g,3.3 g,?,0 g,0 g,0%
+oasis - 1l,Nutri-Score D,149 kj (34 kcal),0 g,0 g,8.3 g,8.2 g,?,0.1 g,0 g,12%
+"Aquarius - The CocaCola Company - 1,5 L",Nutri-Score D,77 kj (18 kcal),0 g,0 g,4.3 g,4.3 g,?,0 g,0.05 g,0%
+"Pepsi 1,5L - 1500 ml",Nutri-Score D,78 kj (18 kcal),0 g,0 g,4.6 g,4.6 g,0 g,0 g,0 g,0%
+Jus Orange & Carotte - Innocent - 900 ml,Nutri-Score D,188 kj (45 kcal),0 g,0 g,10 g,7.8 g,?,0.6 g,0.02 g,0%
+Vitamin aquaB12 - merlin's - 600 ml,Nutri-Score D,247 kj (59 kcal),0 g,0 g,3.3 g,3.3 g,?,0 g,0 g,0%
+oasis - 1l,Nutri-Score D,149 kj (34 kcal),0 g,0 g,8.3 g,8.2 g,?,0.1 g,0 g,12%
+"Aquarius - The CocaCola Company - 1,5 L",Nutri-Score D,77 kj (18 kcal),0 g,0 g,4.3 g,4.3 g,?,0 g,0.05 g,0%
+"Pepsi 1,5L - 1500 ml",Nutri-Score D,78 kj (18 kcal),0 g,0 g,4.6 g,4.6 g,0 g,0 g,0 g,0%
+Jus Orange & Carotte - Innocent - 900 ml,Nutri-Score D,188 kj (45 kcal),0 g,0 g,10 g,7.8 g,?,0.6 g,0.02 g,0%
+Bottle of Green Cordial (Handpicked Elderflower) - Bottlegreen Drinks - 500 ml e,Nutri-Score D,124 kj (30 kcal),0 g,0 g,7.2 g,7.2 g,?,0 g,0 g,0%
+Sprite Goût Original - 33 cl,Nutri-Score D,138 kj (33 kcal),0 g,0 g,7.9 g,7.9 g,?,0 g,0.03 g,3%
+Aquarius Naranja - Coca-Cola - 330 ml,Nutri-Score D,81 kj (19 kcal),0 g,0 g,4.5 g,4.5 g,0 g,0 g,0.05 g,0%
+"Citronnade - Cristaline - 1,5 l",Nutri-Score D,53 kj (13 kcal),0 g,0 g,2.9 g,2.9 g,0 g,0 g,0 g,6%
+Schweppes,Nutri-Score D,84.9 kj (20 kcal),0 g,0 g,4.56 g,4.56 g,?,0 g,0.013 g,0%
+pressed pineapple - Andros - 1 l e,Nutri-Score D,197 kj (47 kcal),0.1 g,0 g,11 g,11 g,0.3 g,0.4 g,0.02 g,75%
+High Protein Drink Vanilla - Pilos - 332 ml (350 g),Nutri-Score D,279 kj (66 kcal),0.2 g,0.1 g,5.5 g,5.5 g,0 g,10.5 g,0.15 g,0%
+Eau gazeuse au citron - Badoit - 1l,Nutri-Score D,57 kj (11 kcal),0.5 g,0 g,3.3 g,3.3 g,?,0.5 g,0.06 g,7%
+Infusion touche d'Hibiscus - Volvic - 75cl,Nutri-Score D,54 kj (13 kcal),0.5 g,0 g,7.8 g,7.7 g,?,0.5 g,0.01 g,2%
+Ciao multifruit - 2l,Nutri-Score D,83 kj (20 kcal),0.5 g,0.1 g,4.6 g,4.6 g,?,0.5 g,1 g,6%
+YOP Parfum Vanille - Yoplait - 825 g,Nutri-Score D,279 kj (66 kcal),0.8 g,0.5 g,10.7 g,10.5 g,?,3 g,0.12 g,0%
+Yaourt à boire sucré aromatisé - YoplaitYop - 825 g,Nutri-Score D,277 kj (65 kcal),0.8 g,0.5 g,10.4 g,10.4 g,0 g,3 g,0.12 g,0%
+Hop parfum framboise - Yoplait - 180 g,Nutri-Score D,276 kj (66 kcal),0.8 g,0.5 g,10.7 g,10.5 g,0.1 g,3 g,0.12 g,0%
+"NESCAFÉ Café Viennois, Café soluble, - 306 g",Nutri-Score D,172 kj (41 kcal),1 g,0.9 g,6.9 g,5.2 g,0.2 g,0.8 g,0.14 g,0%
+"RICORE au Lait, Café & Chicorée, Boîte 400g - Nestlé - 400 g",Nutri-Score D,"1,818 kj (434 kcal)",15.5 g,9.6 g,53 g,39 g,11 g,15 g,1 g,19%
+Bulles de fruits Pamplemousse Touche de citron - Badoit - 1l,Nutri-Score C,87 kj (21 kcal), 0.5 g,0 g,4.9 g,4.9 g, 0.5 g, 0.5 g,0.06 g,25%
+Volvic Juicy fraise - 1.5 L,Nutri-Score C,83 kj (20 kcal), 0.5 g,0 g,4.9 g,4.9 g,0 g, 0.5 g, 0.01 g,11%
+100% jus à base de jus concentrés et de purées - Pago - 75 cl,Nutri-Score C,207 kj (49 kcal), 0.5 g, 0.1 g,11 g,11 g,?, 0.5 g,0 g,100%
+100% jus à base de jus concentrés et de purées - Pago - 75 cl,Nutri-Score C,207 kj (49 kcal), 0.5 g, 0.1 g,11 g,11 g,?, 0.5 g,0 g,100%
+Solevita - 200 ml,Nutri-Score C,119 kj (28 kcal), 0.5 g, 0.1 g,1 g,0.8 g,?,0.4 g, 0.01 g,0%
+Tourtel 27.5 cl Tourtel Twist Citron 0.0 DEGRE ALCOOL - 275 ml,Nutri-Score C,125 kj (30 kcal),0 g,0 g,7.1 g,5 g,?,0.2 g,0.01 g,1%
+Zero Sugar - Coca-Cola - 1.5l,Nutri-Score C,0.9 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.02 g,0%
+Schweppes Agrumes Zero - 33 cl,Nutri-Score C,10 kj (2 kcal),0 g,0 g,0.3 g,0.3 g,0 g,0 g,0 g,0%
+Agrumes - Schweppes - 1.5 L,Nutri-Score C,81 kj (19 kcal),0 g,0 g,4.5 g,0 g,0 g,0 g,0.01 g,0%
+Citronnade - Pulco - 50 cl,Nutri-Score C,96 kj (23 kcal),0 g,0 g,5.1 g,4.8 g,?,0 g,0 g,13%
+FA-BU-BLEU - Innocent - 750 ml,Nutri-Score C,172 kj (41 kcal),0 g,0 g,10 g,9.3 g,?,0 g,0 g,88%
+"Coca - Cola Zero Sugar - 1,25 l",Nutri-Score C,0.9 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.02 g,0%
+Cranberry sans sucres ajoutés - Ocean Spray - 1 l,Nutri-Score C,42 kj (10 kcal),0 g,0 g,1.5 g,1.5 g,?,0 g,0.04 g,27%
+Sprite Summer - 0.5l,Nutri-Score C,38 kj (9 kcal),0 g,0 g,1.9 g,1.9 g,0 g,0 g,0.01 g,0%
+Coca-Cola Zero azúcar Zero cafeína - 330 ml,Nutri-Score C,0.9 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.025 g,0%
+Coca-Cola Zéro sucres - 50 cl,Nutri-Score C,1.6 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.02 g,0%
+Red Bull Sugar Free 250ml,Nutri-Score C,13 kj (3 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.1 g,0%
+Innocent jus ananas & fruit de la passion 900ml - 900 ml,Nutri-Score C,187 kj (44 kcal),0 g,0 g,10 g,8.9 g,0.4 g,0.4 g,0 g,99%
+"Citronnade L'Originale - Pulco - 1,5 L",Nutri-Score C,88 kj (21 kcal),0 g,0 g,4.9 g,4.7 g,?,0 g,0 g,13%
+Cola Zero - Coca-Cola - 150 ml,Nutri-Score C,1.4 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.02 g,0%
+Fruit shoot - TeisseireFruit Shoot - 20 cl,Nutri-Score C,92 kj (22 kcal),0 g,0 g,5.2 g,5.1 g,?,0 g,0 g,10%
+"Tonic Zero - Schweppes - 1,5 l",Nutri-Score C,4 kj (1 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,0%
+Cola Zero - Coca-Cola - 1.25l,Nutri-Score C,0.9 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.02 g,0%
+Pepsi Max - PepsiCo - 330 ml,Nutri-Score C,2 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.01 g,0%
+Club Mate - 0.5l,Nutri-Score C,84 kj (20 kcal),0 g,0 g,5 g,5 g,0 g,0 g,0 g,0%
+"Coke Zero - Coca-Cola - 1,25 L",Nutri-Score C,0.4 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.004 g,0%
+"Innocent jus pomme, pêche & poire 900ml - 900 ml",Nutri-Score C,188 kj (42 kcal),0 g,0 g,9 g,9 g,1 g,0.4 g,0 g,70%
+wake-up Mg vitam!n aqua zero - Merlin’s Beverages - 600ml,Nutri-Score C,8 kj (2 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,3%
+"What The Fanta - 1,25L",Nutri-Score C,6 kj (2 kcal),0 g,0 g,0 g,0 g,?,0 g,0.02 g,3%
+Schweppes zéro Indian Tonic - 330 g,Nutri-Score C,4 kj (1 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,0%
+Tropicana Pamplemousse rose 1 L - 1000 ml,Nutri-Score C,164 kj (39 kcal),0 g,0 g,7.6 g,7.6 g,0.9 g,0.5 g,0 g,100%
+Sprite 330ml - 330 ml,Nutri-Score C,11.5 kj (19 kcal),0 g,0 g,4.55 g,4.55 g,0 g,0 g,0.039 g,3%
+Oasis Ice Tea,Nutri-Score C,79 kj (19 kcal),0 g,0 g,4.5 g,4.4 g,-,0 g,0.03 g,1%
+Sirop de Grenadine - Teisseire - 60 cl e,Nutri-Score C,108 kj (25 kcal),0 g,0 g,6.2 g,6 g,0 g,0 g,0 g,20%
+Tourtel 27.5 cl Tourtel Twist Lime 0.0 DEGRE ALCOOL - 275 ml,Nutri-Score C,132 kj (32 kcal),0 g,0 g,7.6 g,5.3 g,?,0.2 g,0.01 g,3%
+Coca cola zero sugar - 33cl,Nutri-Score C,1.21 kj (0 kcal),0 g,?,0 g,?,?,0 g,0.021 g,0%
+Schweppes zéro Indian Tonic - 330 g,Nutri-Score C,4 kj (1 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,0%
+Tropicana Pamplemousse rose 1 L - 1000 ml,Nutri-Score C,164 kj (39 kcal),0 g,0 g,7.6 g,7.6 g,0.9 g,0.5 g,0 g,100%
+Sprite 330ml - 330 ml,Nutri-Score C,11.5 kj (19 kcal),0 g,0 g,4.55 g,4.55 g,0 g,0 g,0.039 g,3%
+Oasis Ice Tea,Nutri-Score C,79 kj (19 kcal),0 g,0 g,4.5 g,4.4 g,-,0 g,0.03 g,1%
+Sirop de Grenadine - Teisseire - 60 cl e,Nutri-Score C,108 kj (25 kcal),0 g,0 g,6.2 g,6 g,0 g,0 g,0 g,20%
+Tourtel 27.5 cl Tourtel Twist Lime 0.0 DEGRE ALCOOL - 275 ml,Nutri-Score C,132 kj (32 kcal),0 g,0 g,7.6 g,5.3 g,?,0.2 g,0.01 g,3%
+Coca cola zero sugar - 33cl,Nutri-Score C,1.21 kj (0 kcal),0 g,?,0 g,?,?,0 g,0.021 g,0%
+Aquarius - 500 ml.,Nutri-Score C,15.8 kj (15 kcal),0 g,0 g,0.88 g,3.48 g,0 g,0 g,0.01 g,0%
+"Coca sans sucres, calories et caféine - Coca-Cola - 330ml",Nutri-Score C,1.4 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.01 g,0%
+Innocent jus pomme & framboise 900ml - 900 ml,Nutri-Score C,177 kj (42 kcal),0 g,0 g,9.6 g,8.9 g,0.67 g,0.3 g,0 g,91%
+"Limonade - Lorina - 1,25L",Nutri-Score C,117 kj (16 kcal),0 g,0 g,3.9 g,3.9 g,?,0 g,0.01 g,0%
+"Cristaline fraise - 1,5 l",Nutri-Score C,100 kj (24 kcal),0 g,0 g,5.9 g,5.7 g,0.04 g,0.04 g,0.01 g,15%
+Coke Zero - Coca-Cola - 1l,Nutri-Score C,0.9 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.02 g,0%
+Vitamin aqua,Nutri-Score C,75 kj (18 kcal),0 g,0 g,4.2 g,4.2 g,?,0 g,0 g,0%
+Bifrutas tropical - Pascual - 330ml,Nutri-Score C,88 kj (21 kcal),0 g,0 g,4.8 g,4.8 g,0.5 g,0.3 g,0 g,7%
+LE PUR JUS Multifruits - Joker - 1 L,Nutri-Score C,204 kj (48 kcal),0 g,0 g,11 g,9.8 g,0 g, 0.5 g,0 g,100%
+pur jus de 2 fruits pressés pomme et mangue - Innocent - 900 ml,Nutri-Score C,203 kj (47 kcal),0 g,0 g,11 g,9.6 g,0.63 g,0 g,0 g,100%
+Pulco citronnade - Citron - Framboise,Nutri-Score C,88 kj (21 kcal),0 g,0 g,4.9 g,4.7 g,?,0 g,0 g,11%
+jus de clémentines pressées - Andros - 1 L,Nutri-Score C,187 kj (44 kcal),0.1 g,0 g,10 g,10 g,0.2 g,0.7 g,0 g,100%
+Orangina zéro - 1.5 L ℮,Nutri-Score C,19 kj (4 kcal),0.1 g,0 g,0.7 g,0.5 g,0 g,0.1 g,0.02 g,15%
+Tourtel 27.5 cl Tourtel Twist Pêche 0.0 DEGRE ALCOOL - 275 ml,Nutri-Score C,129 kj (31 kcal),0.1 g,0 g,7.4 g,5.1 g,0 g,0.2 g,0.01 g,0%
+Tourtel 27.5 cl Tourtel Twist Pêche 0.0 DEGRE ALCOOL - 275 ml,Nutri-Score C,129 kj (31 kcal),0.1 g,0 g,7.4 g,5.1 g,0 g,0.2 g,0.01 g,0%
+Orangina zero - 33 cl,Nutri-Score C,32 kj (7 kcal),0.1 g,0 g,1.4 g,1.2 g,?,0.1 g,0.01 g,15%
+DANAO PÊCHE ABRICOT - 900 ml,Nutri-Score C,180 kj (43 kcal),0.1 g,0 g,9.3 g,8.7 g,?,0.8 g,0 g,75%
+"Innocent myrtille, cassis, pomme, cranberry - 900 ml",Nutri-Score C,192 kj (45 kcal),0.333 g,0.067 g,11.3 g,10 g,0.333 g,0.333 g,0.007 g,100%
+Hipro 25g Protéines Vanille-Cookie - danone - 0.3 kg,Nutri-Score C,246 kj (58 kcal),0.4 g,0.3 g,5.3 g,5.1 g,0 g,8.3 g,0.17 g,0%
+Hipro Fraise Framboise - Danone - 300g,Nutri-Score C,252 kj (61 kcal),0.5 g,0.2 g,5.4 g,5.1 g,0 g,8.3 g,0.17 g,1%
+"RICORE Noir Intense, Café & Chicorée, Boîte 240g - Nestlé - 240 g",Nutri-Score C,575 kj (141 kcal),0.5 g,0.1 g,7.7 g,7.7 g,48.7 g,3 g,0.15 g,52%
+Volvic Juicy Fraise - 50 cl,Nutri-Score C,83 kj (20 kcal),0.5 g,0 g,4.9 g,4.9 g,0 g,0.5 g,0.01 g,10%
+As de Pink - Innocent - 750 ml,Nutri-Score C,175 kj (41 kcal),0.5 g,0.1 g,9.6 g,8.4 g,1.5 g,0.5 g,0.01 g,92%
+Juicy Fruits Exotiques - Volvic - 1.5 l,Nutri-Score C,87 kj (21 kcal),0.5 g,0 g,4.9 g,4.9 g,?,0.5 g,0.01 g,9%
+"Touche de Thé noir - Volvic - 0,75 l",Nutri-Score C,59 kj (14 kcal),0.5 g,0 g,3.3 g,3.2 g,0 g,0.5 g,0.5 g,2%
+Cola Cao 0% azúcares - 325 g,Nutri-Score C,215 kj (51 kcal),0.6 g,0.4 g,7.1 g,4.8 g,1.2 g,3.7 g,0.13 g,?
+NESCAFE CAPPUCCINO NOISETTE 270 g,Nutri-Score C,142 kj (34 kcal),0.8 g,0.7 g,5.9 g,4.5 g,0.2 g,0.7 g,0.08 g,4%
+NESCAFE CAPPUCCINO NOISETTE 270 g,Nutri-Score C,142 kj (34 kcal),0.8 g,0.7 g,5.9 g,4.5 g,0.2 g,0.7 g,0.08 g,4%
+NESCAFE CAPPUCCINO SUCRE 280 g,Nutri-Score C,226 kj (54 kcal),1 g,0.9 g,9.4 g,7.1 g,0.7 g,1.2 g,0.12 g,5%
+"Nescafé, Gold cappuccino, Cappuccino - 140 g",Nutri-Score C,226 kj (54 kcal),1 g,0.9 g,9.4 g,7.1 g,0.7 g,1.2 g,0.12 g,0%
+Bio Hafer Drink - Lidl - 1l,Nutri-Score C,159 kj (38 kcal),1.2 g,0.2 g,6 g,4 g,0.6 g,0.4 g,0.12 g,0%
+Lait d’Avoine - Carrefour - 1 l,Nutri-Score C,182 kj (43 kcal),1.2 g,0.2 g,7.2 g,5 g,0.8 g,0.5 g,0.078 g,0%
+Bio Kokonuss mit Reis - Vemondo - 1 l,Nutri-Score C,97 kj (23 kcal),1.3 g,1.2 g,2.7 g,1.9 g,0.1 g,0.1 g,0.1 g,6%
+Oat Original - Alpro - 1 L,Nutri-Score C,172 kj (41 kcal),1.4 g,0.2 g,5.9 g,2.5 g,1.8 g,0.4 g,0.088 g,0%
+Poulain intense 70% de cacao - 380 g,Nutri-Score C,285 kj (68 kcal),2.1 g,1.2 g,7.5 g,6.7 g,1.6 g,4.2 g,0.11 g,0%
+Le Lait Ribot - Paysan Breton - 1 L,Nutri-Score C,243 kj (58 kcal),3.2 g,2.3 g,4 g,4 g,0 g,3.3 g,0.1 g,0%
+Le Lait Ribot - Paysan Breton - 1 L,Nutri-Score C,243 kj (58 kcal),3.2 g,2.3 g,4 g,4 g,0 g,3.3 g,0.1 g,0%
+Lait Entier - Envia - 1 L,Nutri-Score C,271 kj (65 kcal),3.6 g,2.2 g,4.8 g,4.8 g,-,3.3 g,0.1 g,0%
+Kéfir - KERGUILLET - 1 l,Nutri-Score C,259 kj (62 kcal),3.7 g,2.5 g,4.2 g,3.7 g,?,3 g,0.571 g,0%
+NESQUIK Moins de Sucres Poudre Cacaotée - Nestlé - 650 g,Nutri-Score C,"1,370 kj (327 kcal)",5.4 g,2.2 g,45.2 g,25 g,29.6 g,9.1 g,0.08 g,0%
+Pur jus citron bio - Solevita - 250ml,Nutri-Score B,118 kj (28 kcal), 0.5 g, 0.1 g,1.7 g,1.7 g,-, 0.5 g, 0.01 g,100%
+100% oranges sans pulpe - innocent - 900 ml,Nutri-Score B,149 kj (35 kcal), 0.5 g, 0.1 g,7.8 g,7.8 g,0.7 g,0.7 g, 0.01 g,100%
+Kéfir natural - hacendado - 250g,Nutri-Score B,152 kj (36 kcal), 0.5 g, 0.1 g,4.8 g,2.4 g,?,3.9 g,0.17 g,0%
+Kéfir natural - hacendado - 250g,Nutri-Score B,152 kj (36 kcal), 0.5 g, 0.1 g,4.8 g,2.4 g,?,3.9 g,0.17 g,0%
+Caro - Nestlé - 200g,Nutri-Score B,"1,572 kj (371 kcal)", 0.5 g,0.2 g,82.6 g,3.2 g,8 g,5.1 g,0.23 g,9%
+Citron Vert - Pulco - 700ml,Nutri-Score B,93 kj (22 kcal),0 g,0 g,1 g,0.8 g,-,0.2 g,0.01 g,40%
+"Eau minérale naturelle - Zest citron - Volvic - 1,5 l",Nutri-Score B,19 kj (4 kcal),0 g,0 g,0.9 g,0.9 g,?,0 g,0.01 g,0%
+Volvic - natürliches Mineralwasser - 1.5l,Nutri-Score B,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.003 g,0%
+Volvic Zest Citron - 50 cl e,Nutri-Score B,20 kj (5 kcal),0 g,0 g,1 g,1 g,0 g,0 g,0 g,0%
+Volvic zest citron - 50cl,Nutri-Score B,19 kj (4 kcal),0 g,0 g,0.9 g,0.9 g,?,0 g, 0.01 g,0%
+Espresso 100% Arabica - Illy - 250 g,Nutri-Score B,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Pétillante Saveur Citron vert - Saguaro - 1 L,Nutri-Score B,1 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.01 g,0%
+"Schweppes agrumes - s.a schweppes international - 1,5 litre",Nutri-Score B,8 kj (2 kcal),0 g,0 g,0.3 g,0.3 g,0 g,0 g,0 g,0%
+Volvic essentiel bio - 75 cl,Nutri-Score B,10 kj (2 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,1%
+"Essentiel Citron, Pamplemouse et Romarin - Volvic - 75cl",Nutri-Score B,9 kj (2 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,1%
+Essenza - Saveur Citron & Zeste De Citron - San Pellegrino - 33 cl,Nutri-Score B,4 kj (1 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.1 g,0%
+"Pulpy Grapefruit Juice - coca Cola hbc românia srl - 1,5 l",Nutri-Score B,142 kj (34 kcal),0 g,0 g,8 g,8 g,?,0.02 g,0.02 g,
+Essenza - Saveur Citron & Zeste De Citron - San Pellegrino - 33 cl,Nutri-Score B,4 kj (1 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.1 g,0%
+"Pulpy Grapefruit Juice - coca Cola hbc românia srl - 1,5 l",Nutri-Score B,142 kj (34 kcal),0 g,0 g,8 g,8 g,?,0.02 g,0.02 g,
+Pepsi - 500ml,Nutri-Score B,4 kj (1 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.01 g,0%
+Badoit Zest Citron - 1 L,Nutri-Score B,2 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.05 g,0%
+SANPELLEGRINO Momenti boisson gazeuse aromatisée Grenade Cassi 33cl - San Pellegrino - 330 ml,Nutri-Score B,40 kj (10 kcal),0 g,0 g,2 g,2 g,0 g,0 g,0 g,8%
+SANPELLEGRINO Momenti boisson gazeuse aromatise clémentine pêche 33cl - San Pellegrino - 330 ml,Nutri-Score B,44 kj (10 kcal),0 g,0 g,2 g,2 g,0 g,0 g,0 g,10%
+"Eau minérale salveta citron - 1,15 L",Nutri-Score B,4 kj (1 kcal),0 g,0 g,0 g,0 g,?,0 g,0.01 g,25%
+S.pellegrino - San Pellegrino - 33cl,Nutri-Score B,3 kj (1 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.01 g,0%
+Coconut Water - Vita Coco - 1 l,Nutri-Score B,43.8 kj (10 kcal),0 g,0 g,4.58 g,4.17 g,0 g,0 g,0.062 g,99%
+Badoit zest citron vert sans sucres - 1 L,Nutri-Score B,4 kj (1 kcal),0 g,0 g,0 g,0 g,?,0 g,0.05 g,0%
+Pamplemousses roses - Andros - 1 L,Nutri-Score B,146 kj (35 kcal),0.1 g,0 g,7.9 g,7.9 g,0.2 g,0.5 g,0 g,100%
+Pamplemousses roses - Andros - 1 L,Nutri-Score B,146 kj (35 kcal),0.1 g,0 g,7.9 g,7.9 g,0.2 g,0.5 g,0 g,100%
+Actimel 0% de mg 100 g x 8 original - Danone - 0.8 kg,Nutri-Score B,120 kj (28 kcal),0.1 g,0.03 g,3.3 g,3.3 g,0 g,2.8 g,0.1 g,0%
+NES café soluble - Nescafé - 200 g,Nutri-Score B,484 kj (118 kcal),0.2 g,0.1 g,3.1 g,3.1 g,34.1 g,7.8 g,0.3 g,0%
+RICORÉ® aux céréales et à la chicorée solubles Boîte 250g - Nestlé - 250 g,Nutri-Score B,"1,573 kj (371 kcal)",0.3 g,0.2 g,83 g,3.2 g,8 g,5.1 g,0.23 g,14%
+"Jus d'orange sans pulpe - innocent - 1,5l",Nutri-Score B,149 kj (35 kcal),0.5 g,0.1 g,7.8 g,7.8 g,0.7 g,0.7 g,0.01 g,100%
+"RICORE Original, Café & Chicorée, Recharge 180g - Nestlé - 180 g",Nutri-Score B,577 kj (141 kcal),0.5 g,0.1 g,9.1 g,9.1 g,45.3 g,2.7 g,0.23 g,62%
+"Hipro Proteines, Shake, Mangosmaak, Lactosevrij - Danone - 25 g",Nutri-Score B,82.3 kj (59 kcal),0.5 g,0.3 g,5.4 g,5.2 g,?,8.33 g,0.168 g,1%
+Pur jus de citron - Jardin bio - 500 ml,Nutri-Score B,133 kj (31 kcal),0.8 g,0.2 g,1.7 g,1.7 g,0 g,0 g,0 g,100%
+Pur jus de citron - Jardin bio - 250 ml,Nutri-Score B,133 kj (31 kcal),0.8 g,0.2 g,1.7 g,1.7 g,-,0 g,0.01 g,100%
+Bjorg avoine sans sucre - 1 L,Nutri-Score B,120 kj (29 kcal),0.9 g,0.2 g,4.5 g,0.5 g,-,0.6 g,0.09 g,0%
+Bjorg avoine sans sucre - 1 L,Nutri-Score B,120 kj (29 kcal),0.9 g,0.2 g,4.5 g,0.5 g,-,0.6 g,0.09 g,0%
+Lait d'amande non sucré - Alpro - 1 L,Nutri-Score B,54 kj (13 kcal),1.1 g,0.1 g,0 g,0 g,0.2 g,0.5 g,0.14 g,2%
+Almond Unsweetened - Alpro - 1 l,Nutri-Score B,63 kj (15 kcal),1.1 g,0.1 g,0 g,?,0.4 g,0.4 g,0.13 g,2%
+Coconut no sugars - Alpro - 1l,Nutri-Score B,56 kj (14 kcal),1.2 g,1.1 g,0 g,0 g,0 g,0.1 g,0.07 g,14%
+Bebida de almendras zero sin azúcares y sin edulcorantes añadidos - Hacendado - 1l,Nutri-Score B,64 kj (16 kcal),1.5 g,0.3 g,0 g,0 g,0 g,0.5 g,0.08 g,3%
+Kéfir biologique - Lactel - 500 g,Nutri-Score B,184 kj (44 kcal),1.5 g,1 g,4.1 g,4.1 g,?,3.4 g,0.13 g,0%
+"Kefir 1,5 % Fat - Pilos ( Lidl ) - 1 kg",Nutri-Score B,193 kj (46 kcal),1.5 g,1 g,4.7 g,4.7 g,?,3.3 g,0.1 g,0%
+Kéfir - Milbona - 500g / 483ml,Nutri-Score B,181 kj (43 kcal),1.5 g,0.9 g,4 g,4 g,?,3.4 g,0.1 g,0%
+Kéfir - Milbona - 500g / 483ml,Nutri-Score B,181 kj (43 kcal),1.5 g,0.9 g,4 g,4 g,?,3.4 g,0.1 g,0%
+Bio-Kefir mild - Andechser - 500 g,Nutri-Score B,178 kj (42 kcal),1.5 g,1 g,3.8 g,3.8 g,0 g,3.4 g,0.13 g,0%
+Lait fermenté - Luxlait - 1 L,Nutri-Score B,201 kj (48 kcal),1.6 g,1.1 g,5.3 g,5.3 g,?,3.3 g,0.1 g,0%
+Lait amande sans sucres - Bio Village - 1 l,Nutri-Score B,106 kj (26 kcal),1.7 g,0.2 g,1.7 g, 0.5 g, 0.5 g,0.7 g,0.1 g,3%
+latte di soia ricca in proteine - alpro - 1L,Nutri-Score B,170 kj (40 kcal),1.8 g,0.3 g,2.8 g,2.8 g,0.4 g,3 g,0.09 g,8%
+L'ben - Soummam 150da - 1L,Nutri-Score B,172 kj (41 kcal),1.9 g,1.36 g,3.25 g,0 g,0 g,2.7 g,0.07 g,0%
+L'ben - Soummam 150da - 1L,Nutri-Score B,172 kj (41 kcal),1.9 g,1.36 g,3.25 g,0 g,0 g,2.7 g,0.07 g,0%
+Kefir Natural - Yeo Valley - 500ml,Nutri-Score B,234 kj (56 kcal),1.9 g,1.2 g,5.7 g,5.7 g,0 g,4 g,0.16 g,0%
+Kefir - Krasnystaw - 500 g,Nutri-Score B,212 kj (50 kcal),2 g,1.2 g,4.7 g,4.2 g,?,3.4 g,0.078 g,0%
+Organic Almond milk - plenish - 1 kg,Nutri-Score B,121 kj (29 kcal),2.59 g,0.29 g,0.4 g,0 g,0.5 g,1 g,0.1 g,5%
+Kefir Drink Original - Biotiful - 500 ml,Nutri-Score B,245 kj (59 kcal),2.9 g,2.1 g,4.6 g,2.8 g,0 g,3.5 g,0.1 g,0%
+Kefir - Biotiful - 1 litre,Nutri-Score B,243 kj (58 kcal),3 g,1.9 g,4.4 g,3.7 g,?,3.3 g,0.1 g,0%
+eau de source - Carrefour - 1.5 l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.001 g,0%
+Apa minerala plată - Borsec - 500 mL,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,0%
+Eau de source de montagne Laqueuille - Marque repère - 1.5 L,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.002 g,0%
+Evian - 1 l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.002 g,0%
+Izvorul Alb - apă plată - Dorna - 500 ml,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,0%
+Sidi Ali - Eaux Minérales d'Oulmes - 50 cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.006 g,0%
+Aquifina - pepsi - 33cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.005 g,0%
+"Eau Mont Blanc - 1,5 L",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+AQUA CARPATICA - 1 litre,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Ain Saïss - Danone - 1.5 l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Eau minérale naturelle gazeuse 50cl PET - San Pellegrino - 500 ml,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.008 g,0%
+Eau minérale - Volvic - 50 cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.03 g,0%
+Eau Pure Life - Nestlé - 50 cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.005 g,0%
+Cristaline pétillante - 50 cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.012 g,0%
+"Vichy Celestins - 1,15 l",Nutri-Score A,0 kj (0 kcal),0 g,?,0 g,?,?,0 g,0.293 g,0%
+Eau minérale naturelle - Vittel - 1 L,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.001 g,0%
+Eau minéral naturelle - Ain atlas - 33cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Eau st Antonin - saguaro - 1 litre,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,?,
+Lala kheddidja - cevital - 1.5L,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.006 g,0%
+Badoit rouge - 1 l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.045 g,0%
+Apa Minerala Carbogazoasa - Borsec,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,0%
+ain saiss 50cl  250 - Danone,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,0%
+Dorna Apa Minerala Carbogazoasa -,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Eau minérale Naturelle des Alpes - Thonon - 1.5 l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.002 g,0%
+Apa Minerala Necarbogazoasa (plata) - Dorna,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,?,0%
+"Acqua minerale naturale - Sant'Anna - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+"Acqua Lete - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.012 g,0%
+"Fiée des Lois - Intermarché - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.004 g,0%
+HEPAR eau minérale naturelle 50cl - 500 ml,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.004 g,0%
+Eau de source Sainte Cécile ou Cristal Roc - Rocheval - 2L,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.1 g,0%
+Dorna Apa Minerala Carbogazoasa -,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Eau minérale Naturelle des Alpes - Thonon - 1.5 l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.002 g,0%
+Apa Minerala Necarbogazoasa (plata) - Dorna,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,?,0%
+"Acqua minerale naturale - Sant'Anna - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+"Spa reine - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.001 g,0%
+"Eau - Aïn lfrane - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0 g,
+"Acqua Lete - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.012 g,0%
+HEPAR eau minérale naturelle 50cl - 500 ml,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.004 g,0%
+Eau de source Sainte Cécile ou Cristal Roc - Rocheval - 2L,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.1 g,0%
+Noè-Quelle Naturell - Quellbrunn - 1.5l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+"Eau Minérale Naturelle des Alpes - Marque Repère - 1,5 L",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+ifri - 1.5 l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.04 g,0%
+"eau minérale naturelle - Rocheval - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.014 g,0%
+BADOIT - 50 cL,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,?,0 g,0.041 g,0%
+Smart Water - smartwater - 600ml,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Aïn Atlas - 50cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.024 g,0%
+Eau minérale naturelle - Saguaro - 50 cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,?,0 g,0 g,0.8 g,0%
+Oulmes Eau Gazeuse - 50cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.31 g,0%
+"Agua de bronchales - 1,5 Litros",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Gazpacho tradicional - Chef select - 1 L,Nutri-Score A,209 kj (50 kcal),3.2 g,0.4 g,3.7 g,2.7 g,1.9 g,0.1 g,0.7 g,98%
+Super smoothie energy 750ml - Innocent - 750 mL,Nutri-Score C,221 kj (52 kcal),0 g,0 g,12 g,10 g,0.8 g,0.6 g,0 g,100%
+100% pur jus jus de pomme - Carrefour - 1 L,Nutri-Score C,175 kj (41 kcal),0.5 g,0 g,10 g,10 g,0,0.5 g,0 g,100%
+"Jus d'orange pur jus - Carrefour - 1,5 l",Nutri-Score C,183 kj (39 kcal),0 g,0 g,9.4 g,8.7 g,0,0 g,0 g,100%
+"Orange sans pulpe eau de coco - Joker - 0,9 L",Nutri-Score B,134 kj (32 kcal),0 g,0 g,7.3 g,7.3 g,0,0.6 g,0.04 g,100%
+Apple Juice - Naturis - 1.5L,Nutri-Score C,190 kj (44 kcal),0.1 g,0.1 g,10.5 g,10 g,0,0.1 g,0.01 g,100%
+100% Pur Jus - Pomme - Carrefour - 1 L,Nutri-Score C,178 kj (42 kcal),0 g,0 g,10 g,9.7 g,0 g,0 g,0.01 g,100%
+100% портокалов сок от концентрат - Pfanner - 2l,Nutri-Score C,180 kj (43 kcal),0.5 g,0.1 g,9 g,9 g,0 g,0.7 g,0.01 g,100%
+Orange mit Acerola - hohes C - 1l,Nutri-Score C,180 kj (43 kcal),0 g,0 g,8.8 g,8.8 g,0 g,0.7 g,0 g,100%
+100% Pur jus Orange Sans pulpe - Carrefour Bio - 1 l,Nutri-Score C,188 kj (44 kcal),0.5 g,0 g,9.4 g,8.7 g,0 g,0.7 g,0.01 g,100%
+Agua de coco - Chaokoh - 1 l,Nutri-Score B,82 kj (20 kcal),0 g,0 g,4.8 g,3.3 g,0 g,0.02 g,0.07 g,100%
+100% pur jus de pomme - Paquito - 1000 ml,Nutri-Score C,204 kj (48 kcal),0.5 g,0.1 g,11.6 g,10.7 g,0 g,0.5 g,0.01 g,100%
+Pur Jus de Pomme - C'est qui le patron ?! - 1 L,Nutri-Score C,188 kj (44 kcal),0.2 g,0 g,10.3 g,9.8 g,0.2 g,0.2 g,< 0.01 g,100%
+Petit déjeuner - LIDL - 1L,Nutri-Score C,208 kj (47 kcal),0.1 g,0 g,10.4 g,10.4 g,0.4 g,0.5 g,0.01 g,100%
+Tropicana Clémentine 1 L - 1000 ml,Nutri-Score C,211 kj (50 kcal),0 g,0 g,10 g,10 g,1.1 g,0.6 g,0 g,100%
+Limón exprimido - Hacendado - 280 ml,Nutri-Score B,125 kj (29 kcal),0 g,0 g,7.1 g,1.5 g,0 g,0 g,0.01 g,99.98%
+Lait de coco light - kara - 200 ml,Nutri-Score E,494 kj (118 kcal),11 g,10 g,2.7 g,2.7 g,0,1.3 g,0.07 g,99.90%
+"Jus à base de jus et purées concentrés. - Joker - 1,5 L",Nutri-Score C,192 kj (46 kcal),0 g,0 g,10.4 g,9.9 g,0 g,0 g,0 g,99.82%
+Gazpacho - U - 1 l,Nutri-Score A,202 kj (49 kcal),3.6 g,0.5 g,2.9 g,2.5 g,0.7 g,0.8 g,0.32 g,98.16%
+"Tropicana Essentiels Vitalité pomme, banane, kiwi, ananas, épinard vitamine C & magnésium 1 L - 1000 ml",Nutri-Score C,230 kj (54 kcal),1 g,0 g,11 g,8.7 g,0.5 g,0.3 g,0.03 g,81%
+"Les Bienfaits Multifruits Eau de coco - Joker - 0,9 l",Nutri-Score C,150 kj (36 kcal),0 g,0 g,8.1 g,7.4 g,0, 0 g,< 0.01 g,78.82%
+Salmorejo fresco - Hacendado - 1 l,Nutri-Score E,561 kj (134 kcal),10 g,1.4 g,9.5 g,2.1 g,0 g,1.5 g,0.95 g,76%
+Minute Maid - 330 ml,Nutri-Score D,192 kj (45 kcal),0 g,0 g,10.7 g,10.1 g,0,0 g,0 g,75%
+Jus d'orange - Jafaden - 1 l,Nutri-Score C,151 kj (35 kcal),0.5 g,0.1 g,8.3 g,8.3 g,< 0.5 g,0.5 g,0.01 g,75%
+Jus de citron - Siracuse - 50 cl,Nutri-Score B,116 kj (27 kcal),0.03 g,0 g,2 g,2 g,0 g,0.4 g,0.01 g,75%
+Orange Juice with Juicy Bits - Tropicana - 900ml,Nutri-Score C,172 kj (41 kcal),0 g,0 g,9.3 g,8.4 g,0.8 g,0.8 g,0 g,75%
+Orange Nectar - Solevita - 2l,Nutri-Score C,166 kj (39 kcal),0.5 g,0 g,9.5 g,9 g,0 g,0.5 g,0.02 g,70.50%
+Pago ananas - 75 cl,Nutri-Score D,211 kj (46 kcal),< 0.5 g,< 0.1 g,11 g,11 g,0,< 0.5 g,0 g,63.83%
+super smoothie - Innocent - 300 mL,Nutri-Score D,230 kj (54 kcal),0.5 g,0.1 g,13 g,11 g,1.1 g,0.5 g,0.01 g,63.71%
+Lait de coco - T&T FOODS - 200 ml,Nutri-Score E,697 kj (169 kcal),17 g,17 g,1.8 g,1.1 g,0 g,1.7 g,0.03 g,63%
+Lait de Coco - U - 200 ml,Nutri-Score E,715 kj (174 kcal),17 g,17 g,2.3 g,1.1 g,0.6 g,1.7 g,0.03 g,62.90%
+Coconut Milk - Blue Dragon - 400ml,Nutri-Score E,649 kj (155 kcal),15 g,13.2 g,3.4 g,2.1 g,0.4 g,1.4 g,0.1 g,56%
+Coconut Milk - ktc - 400ml,Nutri-Score E,456 kj (109 kcal),11 g,9.7 g,2.2 g,1.3 g,0 g,0.5 g,0.05 g,54.55%
+Coconut Milk - Tesco - 400 ml,Nutri-Score E,632 kj (151 kcal),15 g,13 g,3.2 g,1.9 g,0 g,0.9 g,0.1 g,51%
+Mangue & Nata de coco - Gotta chew - Mogu mogu - 32 cl,Nutri-Score E,219 kj (52 kcal),0 g,0 g,13 g,12 g,0.6 g,0 g,0.08 g,50%
+Zumo tropical - Hacendado - 200ml,Nutri-Score D,93 kj (22 kcal),0 g,0 g,4.9 g,4.8 g,0.2 g,0.4 g,0 g,49.50%
+Blackcurrant Squash - Ribena - 850ml,Nutri-Score D,77 kj (18 kcal),0 g,0 g,4.3 g,4.2 g,0,0 g,0.06 g,32.10%
+Hibiscus + pomegranate cold infuse - Lipton - 38 g,Nutri-Score B,17 kj (4 kcal),< 0.5 g,< 0.1 g,< 0.5 g,< 0.5 g,0,< 0.5 g,< 0.01 g,29.50%
+Creamy oat - Oatly - 250 ml,Nutri-Score E,601 kj (145 kcal),13 g,1.6 g,5.8 g,3.6 g,0.8 g,0.9 g,0.11 g,27.50%
+Sirop multivitamin - Capri-sun - 600ml,Nutri-Score D,137 kj (32 kcal),0 g,0 g,7.9 g,7.5 g,0 g,0 g,0 g,20.03%
+Fanta,Nutri-Score E,163 kj (39 kcal),0 g,0 g,9.6 g,9.6 g,0,0 g,0 g,17.28%
+Sanpellegrino - San Pellegrino - 33cl,Nutri-Score D,82 kj (19 kcal),0 g,0 g,4.4 g,4.4 g,0 g,0.1 g,0.01 g,16%
+Juiced Monster Mango Loco - 500ml,Nutri-Score E,788 kj (185 kcal),0 g,0 g,47 g,43 g,0 g,0 g,0.3 g,15.00%
+Orangina - 50 cl,Nutri-Score E,175 kj (41 kcal),0.1 g,0 g,9.8 g,9.6 g,0 g,0.1 g,0.01 g,15%
+Simon life naranja - Don Simón - 6,Nutri-Score D,85 kj (20 kcal),0.1 g,0 g,4.8 g,4.8 g,0,0 g,0.03 g,12.40%
+citronnade - Andros - 1 l,Nutri-Score D,113 kj (27 kcal),0 g,0 g,6.7 g,6.7 g,0 g,0 g,0 g,11.30%
+"Tropical - Tropico - 1,5 l",Nutri-Score D,150 kj (35 kcal),0 g,0 g,8.5 g,8.5 g,0 g,0 g,0.03 g,10.20%
+Pêche - Cristaline - 1,Nutri-Score C,96 kj (23 kcal),0 g,0 g,5.6 g,5.5 g,0 g,0.04 g,0.1 g,10%
+Pulco Citronnade - 33 cl,Nutri-Score C,91 kj (21 kcal),0 g,0 g,4.9 g,4.7 g,0,0 g,0 g,9.70%
+Soy milk - Alnatura - 1 l,Nutri-Score B,173 kj (41 kcal),2.1 g,0.6 g,2 g,0.8 g,0.5 g,3.6 g,0.04 g,9%
+Fanta orange - 1l,Nutri-Score E,201 kj (48 kcal),0 g,0 g,11.7 g,11.7 g,0,0 g,0 g,8.50%
+Boisson soja nature - U Bio - 1 l,Nutri-Score B,171 kj (41 kcal),2.1 g,0.4 g,1.4 g,0.7 g,0.6 g,3.8 g,0.01 g,8%
+Organic Soya Milk unsweetened - Plenish - 1 L,Nutri-Score B,132 kj (32 kcal),1.6 g,0.3 g,0.8 g,0 g,0.6 g,3.2 g,0 g,8%
+Yeo Valley Organic Kefir,Nutri-Score E,331 kj (79 kcal),1.9 g,1.3 g,11.1 g,9.5 g,0.1 g,4.2 g,0.11 g,7.50%
+Bulles de fruits - Badoit - 1 l,Nutri-Score C,92 kj (22 kcal),0.5 g,0.5 g,4.9 g,4.9 g,0.5 g,0.5 g,0.06 g,7.04%
+Bulles de fruit citron touche de menthe - badoit,Nutri-Score D,92 kj (22 kcal),< 0.5 g,0 g,4.9 g,4.9 g,< 0.5 g,< 0.5 g,0.06 g,7%
+Bifrutas Tropical - Pascual,Nutri-Score D,91 kj (21 kcal),0 g,0 g,4.8 g,4.8 g,0.5 g,0.3 g,0 g,7%
+Organic & unsweetened Almond - Plenish - 1 litre,Nutri-Score B,121 kj (29 kcal),2.5 g,0.2 g,0.4 g,0 g,0.5 g,1 g,0.1 g,6%
+Soya Vanilla - alpro - 1 l,Nutri-Score C,232 kj (57 kcal),1.8 g,0.3 g,6.8 g,6.8 g,0.5 g,3 g,0.14 g,5.87%
+Soy chocolate flavor - Alpro - 1l,Nutri-Score C,257 kj (61 kcal),1.8 g,0.4 g,7.9 g,7.6 g,0.9 g,3.1 g,0.14 g,5.80%
+Bebida de almendras - Milbona,Nutri-Score B,71 kj (17 kcal),1.4 g,0.3 g,0.5 g,0.2 g,0.5 g,0.5 g,0.12 g,5.14%
+Kefir Drink - Biotiful Dairy Ltd - 1 litre,Nutri-Score C,272 kj (65 kcal),2.6 g,1.9 g,7.1 g,5.1 g,0,3.3 g,0.09 g,5.13%
+"Sunny Delight Doux California - 1,25 l",Nutri-Score D,145 kj (34 kcal),0 g,0 g,8 g,7.9 g,0,0 g,0.01 g,5%
+Tourtel 27.5 cl Tourtel Twist Ananas Citron 0.0 DEGRE ALCOOL - 275 ml,Nutri-Score C,127 kj (30 kcal),0 g,0 g,7.3 g,5 g,0,0.2 g,0.01 g,5%
+Limonade sans sucres - LORINA - 1.25L,Nutri-Score C,1 kj (0 kcal),< 0.5 g,0 g,< 0.5 g,0 g,0,< 0.5 g,< 0.01 g,5%
+Boisson à l'avoine - Oatly - 1 L,Nutri-Score C,196 kj (48 kcal),1.5 g,0.2 g,7.2 g,3.5 g,0.8 g,1.1 g,0.1 g,5%
+Sensation avoine végétal - Carrefour - 1 l,Nutri-Score C,201 kj (48 kcal),1.8 g,< 0.1 g,7.1 g,3.4 g,1.2 g,< 0.5 g,0.12 g,5%
+Boisson cajou sans sucres - Bjorg - 1 L,Nutri-Score B,134 kj (32 kcal),1.9 g,0.4 g,2.7 g,0.2 g,0.2 g,0.9 g,0.12 g,4.30%
+0% Azúcares Añadidos - Cola Cao - 300 g,Nutri-Score C,215 kj (51 kcal),0.6 g,0.4 g,7.1 g,4.8 g,1.2 g,3.7 g,0.13 g,4.25%
+Boisson au soja vanille - Carrefour Bio - 1 l,Nutri-Score B,211 kj (50 kcal),2.1 g,0.4 g,4 g,3.2 g,0.5 g,3.6 g,0.01 g,3.90%
+Ribena - Hitachino - 1.5L,Nutri-Score D,88 kj (21 kcal),0 g,0 g,4.7 g,4.6 g,0,0 g,0.06 g,3.13%
+Fanta mangue / fruit du dragon - 330 ml,Nutri-Score C,109 kj (26 kcal),0 g,0 g,6.1 g,6 g,0,0 g,0 g,2.80%
+Douceur Amande sans sucres ajoutés - Evernat - 1 L e,Nutri-Score B,102 kj (25 kcal),1.7 g,0.2 g,1.6 g,0.5 g,0,0.7 g,0.05 g,2.80%
+Alpro goût chocolat noisette - 1 L e   u.h.t.,Nutri-Score D,200 kj (48 kcal),1.8 g,0.3 g,7.1 g,6.9 g,0.6 g,0.6 g,0.14 g,2.80%
+Hazelnut drink - Lidl - 1L,Nutri-Score C,129 kj (31 kcal),1.8 g,0.2 g,3.1 g,3.1 g,0,0.4 g,0.1 g,2.50%
+Infuse à froid - menthe + citron vert - Lipton - 35 g,Nutri-Score B,4 kj (1 kcal),0 g,0 g,0 g,0.2 g,0 g,0.1 g,0 g,2%
+Amande protéines - Bjorg - 1 L,Nutri-Score B,117 kj (28 kcal),1.2 g,0.2 g,2.6 g,2.3 g,0.5 g,1.8 g,0.075 g,2%
+Sprite - COCA-COLA COMPAGNY - 1.25 L,Nutri-Score D,141 kj (33 kcal),0 g,0 g,8.1 g,8 g,0 g,0 g,0.025 g,1.10%
+Thé noir infusé glacé saveur pêche - Freeway - 1 l,Nutri-Score C,77 kj (18 kcal),0 g,0 g,4.5 g,4.5 g,0,0 g,0.01 g,1%
+Bio Hafer Drink - Kakao - Vemondo - 1pcs,Nutri-Score E,233 kj (56 kcal),1.5 g,0.2 g,9.3 g,7.3 g,0.9 g,0.7 g,0.14 g,0.50%
+Boisson soja vanille BIO 1l - Regain bio - 1000 ml,Nutri-Score B,188 kj (45 kcal),1.8 g,0.3 g,3.6 g,3.6 g,0.5 g,3.3 g,0.09 g,0.40%
+Lindahls pro + - Nestle,Nutri-Score C,218 kj (52 kcal),0.3 g,0.2 g,3.4 g,3 g,0,7.9 g,0.1 g,0.35%
+Lipton Thé vert glacé saveur citron vert menthe - 500 ml,Nutri-Score D,42 kj (10 kcal),0 g,0 g,2.3 g,2.2 g,0,0 g,0.03 g,0.10%
+"Thè alla Pesca - San Benedetto - 1,5 l",Nutri-Score E,103 kj (24 kcal),0 g,0 g,5.8 g,5.72 g,0 g,0 g,0 g,0.10%
+Coca-Cola - 0.33l,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0,0 g,0 g,0%
+"Cola - Breizh Cola - 1,5 L",Nutri-Score E,158 kj (37 kcal),0.5 g,0.5 g,9.4 g,9.3 g,0,0.5 g,0.01 g,0%
+Jus d'orange avec pulpe - Solevita - 1 L,Nutri-Score E,184 kj (44 kcal),0.2 g,0.1 g,9.1 g,9.1 g,0,0.7 g,0 g,0%
+FEVER-TREE PREMIUM NATURAL MIXERS PREMIUM GINGER BEER MADE WITH NATURAL GINGERS - 200ml,Nutri-Score E,171 kj (40 kcal),0 g,0 g,10.1 g,9 g,0,0 g,0 g,0%
+freeway tonic,Nutri-Score E,155 kj (37 kcal),0.1 g,0.1 g,8.9 g,8.9 g,0,0.1 g,0.1 g,0%
+Milbona - 330ml,Nutri-Score C,248 kj (59 kcal),1.3 g,0.8 g,8.6 g,8.5 g,0,3 g,0.18 g,0%
+Bio organic rice drink - VEMONDO - 1 L,Nutri-Score E,247 kj (59 kcal),0.9 g,0.1 g,12.2 g,8 g,0,0.2 g,0.1 g,0%
+Pepsi - 1500ml,Nutri-Score E,120 kj (28 kcal),0 g,0 g,7 g,7 g,0,0 g,0.01 g,0%
+Biotiful Dairy Morello Cherry Kefir - 500 ml,Nutri-Score C,259 kj (62 kcal),2.8 g,1.8 g,6.4 g,5.6 g,0,3.1 g,0.1 g,0%
+Kong Strong - 250 ml,Nutri-Score E,98 kj (23 kcal),0 g,0 g,4.9 g,4.9 g,0,0.4 g,0.23 g,0%
+Lemon Ice tea - Lipton - 500ml,Nutri-Score C,82 kj (20 kcal),0.5 g,0.1 g,4.6 g,4.5 g,0,0.5 g,0.02 g,0%
+Lipton pêche petite bouteille,Nutri-Score C,84 kj (20 kcal),0.5 g,0.1 g,4.6 g,4.5 g,0,0.5 g,0.2 g,0%
+Boisson Riz Nature Bio - Bjorg - 1 L,Nutri-Score C,155 kj (37 kcal),0.6 g,< 0.1 g,8 g,4 g,0,< 0.5 g,0.08 g,0%
+Boisson végétale à base d'avoine - Bonneterre - 1 L,Nutri-Score D,213 kj (51 kcal),1.4 g,0.2 g,8.4 g,4 g,0,1.1 g,0.03 g,0%
+Vitamin aqua Ca - Merlin's - 600 мл,Nutri-Score C,59 kj (14 kcal),0 g,0 g,3.2 g,3.2 g,0,0 g,0 g,0%
+"Petits Filou - Tub's, goût fraise, framboise et pêche - Yoplait",Nutri-Score E,381 kj (91 kcal),2.7 g,1.8 g,11.9 g,10.8 g,0,3.8 g,0.14 g,0%
+Cherry - Coca-Cola - 500 ml,Nutri-Score E,182 kj (43 kcal),0 g,0 g,10.7 g,10.7 g,0,0 g,0 g,0%
+Coca-Cola - 330 ml,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0,0 g,0 g,0%
+Coca Cola - 2l,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0,0 g,0 g,0%
+Robinsons Orange Squash - 1ltr,Nutri-Score C,29 kj (7 kcal),0 g,0 g,0.6 g,0.6 g,0,0 g,0.21 g,0%
+Mineralwasser still - Saskia - 1.5l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0,0 g,0.038 g,0%
+agua font vella - 50 cl,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0,0 g,0.002 g,0%
+"Rocchetta Naturale - 1,5L",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0,0 g,0.001 g,0%
+"Eau minérale naturelle - Plancoët - 1,5 l",Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0,0 g,0.008 g,0%
+Thé vert - Clipper - 35 g,Nutri-Score B,17 kj (4 kcal),0 g,0 g,0 g,0 g,0,0 g,0 g,0%
+"Double Concentrate Orange Squash No Added Sugar - Robinsons - 1,75 L",Nutri-Score C,4 kj (1 kcal),0 g,0 g,0 g,0 g,0,0 g,0.03 g,0%
+Monster Energy Ultra - 500 ml,Nutri-Score C,8 kj (2 kcal),0 g,0 g,0.9 g,0 g,0,0 g,0.2 g,0%
+Cappuccino saveur Viennois - Summa - 250 g,Nutri-Score E,218 kj (52 kcal),1.667 g,1.533 g,8 g,6.667 g,0 g,1.067 g,0.867 g,0%
+Infuselle Bonne Nuit - Ricola - 200 g,Nutri-Score D,109 kj (26 kcal),0 g,0 g,6.4 g,6.3 g,0 g,0 g,0 g,0%
+Lait écrémé bio en poudre - Regilait - 250 g,Nutri-Score E,"1,502 kj (359 kcal)",0.8 g,0.5 g,52 g,52 g,0 g,36 g,1.075 g,0%
+Schweppes Agrum - 25cl,Nutri-Score E,100 kj (24 kcal),0 g,0 g,5.8 g,5.7 g,0 g,0 g,0 g,0%
+"TOURTEL Twist Tourtel, Tourtel Twist Agrume - 275 ml",Nutri-Score C,130 kj (31 kcal),0 g,0 g,7.7 g,5.1 g,0 g,0.2 g,0.01 g,0%
+Cappuccino - Summa - 250g,Nutri-Score E,"1,170 kj (281 kcal)",7.33 g,6.67 g,48 g,40.7 g,0 g,5 g,0.733 g,0%
+Ciao Peach - 2 L,Nutri-Score C,89 kj (21 kcal),0.5 g,0.1 g,4.9 g,4.9 g,0 g,0.5 g,0.01 g,0%
+Kefir - Milk - 480 g,Nutri-Score B,192 kj (46 kcal),1.5 g,0.9 g,4 g,4 g,0 g,4 g,0.1 g,0%
+"Marrakech tea - Nestlé - 82,7 g",Nutri-Score C,56 kj (13 kcal),0 g,0 g,3.3 g,3.3 g,0 g,0 g,0 g,0%
+Batido proteínas Whey Hacendado - 330ml,Nutri-Score B,188 kj (45 kcal),0.6 g,0.5 g,2.3 g,2.2 g,0 g,7.9 g,0.2 g,0%
+Monster Energy - MonsterMonster Energy - 500ml,Nutri-Score E,201 kj (47 kcal),0 g,0 g,12 g,11 g,0 g,0 g,0.19 g,0%
+[Coca-Cola] Carbonated softdrink with cola taste - The Coca-Cola Company - 1.5 l,Nutri-Score E,180 kj (42 kcal),0 g,0 g,10.6 g,10.6 g,0 g,0 g,0 g,0%
+Kong Strong - Lidl - 250 ml,Nutri-Score C,15 kj (4 kcal),0 g,0 g,0.1 g,0.1 g,0 g,0.4 g,0.23 g,0%
+Eau minérale pétillante - fou d'o - 1l,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,< 0.01 g,0%
+Ciel - 1 l,Nutri-Score B,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.025 g,0%
+Coca-Cola Zero azúcar Zero cafeína - 2 l,Nutri-Score C,0.9 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.02 g,0%
+PERRIER citron vert - Nestlé - 33 cl,Nutri-Score B,2 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0 g,0%
+Ice Tea Limón - Hacendado - 12x3,Nutri-Score C,9.2 kj (2 kcal),0 g,0 g,0.52 g,0 g,0 g,0 g,0.01 g,0%
+Aloe vera drink - Aloi - 1500 ml e,Nutri-Score C,84 kj (20 kcal),0 g,0 g,5 g,4.9 g,0.03 g,0 g,0.04 g,0%
+Kéfir - Carrefour - 500mL,Nutri-Score B,187 kj (45 kcal),1.6 g,1.1 g,3.9 g,3.9 g,0.5 g,3.6 g,0.12 g,0%
+Chocolat poudre - Poulain - 680 g,Nutri-Score D,148 kj (85 kcal),0.95 g,0.55 g,4.45 g,4.2 g,0.55 g,1.95 g,0.055 g,0%
+oat - vemondo - 1L,Nutri-Score C,172 kj (41 kcal),1.5 g,0.2 g,6.3 g,3.1 g,0.6 g,0.3 g,0.12 g,0%
+Oat Barista Blend - Califia Farms - 1 L,Nutri-Score C,229 kj (54 kcal),2.9 g,0.2 g,5.8 g,2.8 g,0.8 g,0.8 g,0.12 g,0%
+Café - Hacendado - 1 l,Nutri-Score B,129 kj (31 kcal),1.6 g,0.3 g,0.7 g,0.5 g,0.8 g,3 g,0.21 g,0%
+Vivesoy Avena - Pascual - 1 l,Nutri-Score C,209 kj (50 kcal),0.7 g,0.1 g,9.1 g,5 g,1 g,1.2 g,0.06 g,0%
+"Smoothie ananas, banane & coco - Innocent - 750 ml",Nutri-Score E,280 kj (66 kcal),0.7 g,0.6 g,14 g,12 g,1.1 g,0.8 g,< 0.01 g,0%
+Hafermilch - Alpro - 1L,Nutri-Score C,192 kj (46 kcal),1.5 g,0.2 g,6.6 g,3.3 g,1.4 g,0.8 g,0.08 g,0%
+Nesquik - Nestlé - 1kg,Nutri-Score E,"1,634 kj (386 kcal)",3.6 g,1.6 g,78.9 g,75.1 g,7.7 g,5.1 g,0.41 g,0%
+milk chocolate - Mister Choc - 100 g,Nutri-Score E,"2,337 kj (567 kcal)",35 g,20 g,52 g,51 g,8.9 g,8 g,0.3 g,0%
+Poudre cacaotée 32 % de cacao maigre - Carrefour Bio - 500 g,Nutri-Score D,"1,549 kj (367 kcal)",3.5 g,2.2 g,71 g,68 g,9.6 g,8 g,0.05 g,0%
+Chefir pur si simplu - Napolact - 330 g,Nutri-Score B,238 kj (57 kcal),3.3 g,2 g,3.7 g,3.7 g,0,3.2 g,0.15 g,0%
+سلطان - حلال,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0,0 g,0 g,0%
+Apa plată - Aqua Carpatica - 750 ml,Nutri-Score B,0 kj (0 kcal),0 g,0 g,0 g,0 g,0,0 g,0 g,0%
+Sana - Pilos - 400g,Nutri-Score C,268 kj (64 kcal),3.6 g,2.4 g,4.5 g,4.5 g,0 g,3.4 g,0.1 g,0%
+Still Spring Mineral Water - Highland Springs - 1.5 L,Nutri-Score A,0 kj (0 kcal),0 g,0 g,0 g,0 g,0 g,0 g,0.001 g,0%
+Jutos - الجودة - 1 ‏ليتر,Nutri-Score B,167 kj (40 kcal),0 g,0 g,10 g,0 g,0 g,0 g,0.2 g,0%
