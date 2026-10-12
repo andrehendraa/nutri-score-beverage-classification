@@ -1,32 +1,22 @@
-# Prerequisites
-*.d
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Models
+*.pkl
+*.joblib
+*.h5
 
-# Precompiled Headers
-*.gch
-*.pch
+# Secrets
+.env
+kaggle.json
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Office temp files
+~$*
